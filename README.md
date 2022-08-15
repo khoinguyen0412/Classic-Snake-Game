@@ -1,2 +1,5 @@
-# Classic-Snake-Game
-Classic Snake Game coded by Pygame
+1. Project's Title 
+Classic-Snake-Game
+
+2. 
+
