@@ -27,7 +27,7 @@ You can use it as a way to practice your coding skills and play the game in your
 
 ## Credits
 The video tutorial that I watched was from freeCodeCamp.org. Here is the link to that video:
-https://www.youtube.com/watch?v=8dfePlONtls
+https://www.youtube.com/watch?v=8dfePlONtls. 
 I also used some sound effects from youtube and other images from Google. 
 
 ## License
