@@ -20,7 +20,7 @@ Open the command prompt and type this command
 ```bash 
 auto-py-to-exe.exe
 ```
-Remember to include the resources folder in the 
+Remember to include the resources folder in the converter
 
 ## How to use 
 You can use it as a way to practice your coding skills and play the game in your free time. You are free to use the code to modify and make some changes or updates.
